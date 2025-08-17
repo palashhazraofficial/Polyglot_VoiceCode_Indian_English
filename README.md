@@ -1,4 +1,5 @@
 # Polyglot_VoiceCode
+# Polyglot VoiceCode Indian English
 # Version 1.0.0
 
 Polyglot VoiceCode is a desktop application that allows you to type using your voice. It supports **offline speech recognition** using [vosk] (https://alphacephei.com/vosk/), meaning you don't need the internet to use it.
