@@ -26,6 +26,7 @@ Polyglot VoiceCode is a desktop application that allows you to type using your v
 1. Download the installer ('Polyglot_VoiceCode_Setup.exe') from the official website
 2. Run the installer and follow the on-screen instructions
 3. Launch the application from the Start Menu
+4. If the application does not run Run it as Administrator
 
 ----
 
