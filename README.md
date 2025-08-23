@@ -46,7 +46,7 @@ See the 'LICENSE.txt' file for details
 ## 📡 Contact
 For licensing or support, (WE WILL BE HAPPY TO TALK)
 Contact: [Palash Hazra] - [email: contactpalashhazra@gmail.com]
-Website: [www.polyglot.com]
+Website: [https://palashhazraofficial.github.io/polyglotvoicecode.github.io/]
 
 ----
 
